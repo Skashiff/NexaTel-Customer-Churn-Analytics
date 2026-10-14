@@ -1,0 +1,15 @@
+# Raw and cleaned datasets are not distributed in this portfolio repository
+data/raw/
+data/cleaned/
+*.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Temporary and OS files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
