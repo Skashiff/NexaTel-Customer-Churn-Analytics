@@ -31,7 +31,7 @@ The project was completed in four phases:
 - **Monthly-plan** customers churned far more than annual-plan customers.
 - Churn increased from **15.11%** with no unresolved complaints to **48.32%** for customers with **3+ unresolved complaints**.
 - The **Mass** segment had the highest segment churn rate at **26.67%**.
-- Churned customers had a higher average dropped-call rate (**2.59%**) than active customers (**2.36%**.
+- Churned customers had a higher average dropped-call rate (**2.59%**) than active customers (**2.36%**).
 - Customers who **accepted retention offers** showed the highest retained share at **86.82%**.
 
 ## Power BI Dashboard
